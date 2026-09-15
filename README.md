@@ -4,11 +4,11 @@ Each animal has attributes that are compared to those of the mystery animal when
 These attributes are temperature, habitat, diet and classification/species type.
 
 TERMINAL
-The correct format when running the game is as follows "python animal_game.py <difficulty> <username>"
-<difficulty> can be easy, medium or hard and the choice will change the pool of animals available.
-<username> decides what is displayed on the leaderboard when the game is won.
+The correct format when running the game is as follows "python animal_game.py difficulty username"
+difficulty can be easy, medium or hard and the choice will change the pool of animals available.
+username decides what is displayed on the leaderboard when the game is won.
 
-Example: "python animal_game.py <hard> <joel>"
+Example: "python animal_game.py hard joel"
 
 FEATURES
 When a user inputs "list" into the game, a list of available animals is output based on difficulty
